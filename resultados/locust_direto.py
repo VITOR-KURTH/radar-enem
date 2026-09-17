@@ -11,6 +11,6 @@ class AlunoRadarEnem(HttpUser):
         }
 
         self.client.post(
-            "/exibir_nota",
+            "/api/CalculaNota",
             json=payload
         )

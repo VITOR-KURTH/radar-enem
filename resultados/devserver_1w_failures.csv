@@ -1,0 +1,3 @@
+Method,Name,Error,Occurrences,First Seen,Last Seen
+POST,/exibir_nota,HTTPError('503 Server Error: SERVICE UNAVAILABLE for url: /exibir_nota'),321,2026-09-17T16:52:52Z,2026-09-17T16:53:01Z
+POST,/exibir_nota,"ConnectionResetError(104, 'Connection reset by peer')",14176,2026-09-17T16:51:09Z,2026-09-17T16:53:04Z

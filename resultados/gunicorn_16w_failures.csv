@@ -1,0 +1,2 @@
+Method,Name,Error,Occurrences,First Seen,Last Seen
+POST,/exibir_nota,HTTPError('503 Server Error: SERVICE UNAVAILABLE for url: /exibir_nota'),1361,2026-09-17T17:03:54Z,2026-09-17T17:05:32Z
